@@ -21,7 +21,6 @@
         "QoL/Debug.js",
         "QoL/Entities.js",
         "QoL/Tokens.js",
-        "QoL/Combat.js",
         "QoL/Playlist.js",
         "QoL/Macros.js"
     ],
