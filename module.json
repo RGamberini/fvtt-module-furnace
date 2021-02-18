@@ -61,7 +61,7 @@
     ],
     "url": "https://github.com/Lhttps://github.com/RGamberini/fvtt-module-furnace",
     "manifest": "https://raw.githubusercontent.com/RGamberini/fvtt-module-furnace/master/module.json",
-    "download": "https://github.com/Lhttps://github.com/RGamberini/fvtt-module-furnace/releases/download/v2.6.0/furnace.zip",
+    "download": "https://github.com/RGamberini/fvtt-module-furnace/releases/download/latest/furnace.zip",
     "socket": true,
     "minimumCoreVersion": "0.7.7",
     "compatibleCoreVersion": "0.8.0"
